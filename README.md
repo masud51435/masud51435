@@ -50,5 +50,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,html,css,js,react,nodejs,express,mongodb,vscode,androidstudio&perline=8)](https://skillicons.dev)
 
+
 ![Masud GitHub stats](https://github-readme-stats.vercel.app/api?username=masud51435&show_icons=true&theme=dark)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masud51435&theme=dark)
 
