@@ -16,7 +16,7 @@
 
 
 <h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
-<p align="left">
+<!-- <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="30" height="30" "padding: 30px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="dart" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" />
@@ -32,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="html" width="30" height="30"/>
 
-</p>
+</p> -->
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,html,css,js,react,nodejs,express,mongodb,vscode,androidstudio&perline=7)](https://skillicons.dev)
 
