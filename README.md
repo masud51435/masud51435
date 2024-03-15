@@ -34,5 +34,5 @@
 
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,html,css,js,react,nodejs,mongodb,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,html,css,js,react,nodejs,mongodb,vscode,androidstudio&perline=7)](https://skillicons.dev)
 
