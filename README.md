@@ -12,7 +12,21 @@
 - 🍭 Pull Stack developer, like to play around with bugs👾
 
 
-
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/masud51435">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   <a href="https://www.instagram.com/sahariyarmahmud007">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://www.facebook.com/sahariyarMahmud.007">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://www.linkedin.com/in/masud-rana-582243227/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
 <h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
