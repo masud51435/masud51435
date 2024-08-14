@@ -1,6 +1,6 @@
 <h2>Hello everyone, I'm MasuD 👋</h2>
 
-<h3>I'm a Programmer, Student and a learner!!</h3>
+<h3>I'm a Flutter Developer and a learner!!</h3>
 
 
 - 🔭 I’m currently working on learn Flutter
