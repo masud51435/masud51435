@@ -8,7 +8,7 @@
 - 🛠  Flutter Developer and MERN stack Developer
 - 👯 I’m looking to collaborate with other content creators
 - 🎯 Learn, Contribute and Grow
-- 🥅 2025 Goals: Learn Advance Flutter and DART
+- 🥅 2026 Goals: Learn Advance Flutter and DART
 - 🍭 Pull Stack developer, like to play around with bugs👾
 
 
