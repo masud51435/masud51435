@@ -29,15 +29,30 @@ class MasudRana extends FlutterDeveloper {
     "🌐 Working with REST APIs & State Management",
     "🎯 Goal 2026: Master Clean Architecture in Flutter",
   ];
+
+  final Map<String, String> principles = {
+    "Code Quality"   : "Clean, readable code over clever code",
+    "UI Standard"    : "Pixel-perfect on every screen size",
+    "Mindset"        : "Learn → Build → Ship → Improve → Repeat",
+    "Collaboration"  : "Open source contributor & team player",
+  };
   
-  final List<String> funFacts = [
-    "☕ Powered by chai, not coffee",
-    "🐛 I don't create bugs — I create hidden features",
-    "📖 Believer in: Learn → Build → Ship → Repeat",
-  ];
+final List<String> currentlyLearning = [
+  "⚡ Advanced Dart: Isolates, Streams & Async patterns",
+  "🧪 Flutter Testing: Unit, Widget & Integration tests",
+  "🟩 Node.js: Building RESTful APIs with Express.js",
+  "🗄️  Backend: JWT Auth, Middleware & MongoDB with Mongoose",
+  "☁️  Supabase as a Firebase alternative",
+];
   
   @override
-  String toString() => "Passionate dev turning ideas into apps 🚀";
+  String toString() {
+    return """
+      Flutter Developer who turns ideas into apps people love.
+      Focused on writing clean, maintainable & scalable code.
+      Let's build something great together! 🚀
+    """;
+  }
 }
 ```
 
